@@ -6,15 +6,13 @@ This is a Unity project created as an exercise for the Unity Learn Junior Progra
 
 ## 🚀 Quick Start
 
-Want to try it out?
+Want to skip the code and just play?
 
 1. **[Download the Repository](https://github.com/Frext/CountingProtoype/archive/refs/heads/main.zip)**
 
 2. Extract the ZIP file.
 
-3. Open the project in **Unity 2021.3 or later**.
-
-4. Open the main scene and press **Play** to run the prototype.
+3. Open the **`BuildWindows`** folder and run the game executable named **`SimpleBreakout.exe`**.
 
 ---
 
@@ -22,14 +20,16 @@ Want to try it out?
 
 | Key | Action |
 | :---: | :--- |
-| **Mouse / Touch** | Interact with Game Objects |
-| **SPACE** | Confirm / Submit |
+| **Left Click** | Shoot Ball |
+
+---
+
+## 🎬 Gameplay Preview
 
 ---
 
 ## 📸 Screenshots
 
-*Add your gameplay screenshots here*
 
 ---
 
@@ -43,11 +43,10 @@ Want to try it out?
 
 ## 🛠️ Built With
 
-* **Engine:** Unity (2021.3+)
+* **Engine:** Unity (2021.3.9f1)
 * **Language:** C#
-* **Shaders:** ShaderLab & HLSL
-* **Course:** Unity Learn Junior Programmer Pathway
+* **Course:** Unity Learn Junior Programmer Pathway (Exercise: Counting Prototype)
 
 ---
 
-**2026**
+**2022**
