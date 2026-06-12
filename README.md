@@ -1,6 +1,6 @@
 # Counting Prototype
 
-This is a Unity project created as an exercise for the Unity Learn Junior Programmer Pathway.
+A simple, fast-paced basketball shooting game where you try to score as many baskets as you can before the timer runs out!
 
 ---
 
@@ -30,14 +30,21 @@ Want to skip the code and just play?
 
 ## 📸 Screenshots
 
+| Main Menu | Game Start |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/237fd19c-539c-4d50-8792-934a3d7768ac" alt="Main Menu"/> | <img src="https://github.com/user-attachments/assets/453f7775-c8e8-46a1-8911-ea5c6906079b" alt="Game Start"/> |
+
+| Gameplay | Game Over |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/1133d9ad-8298-4902-887d-62d8f0dc5f09" alt="Gameplay"/> | <img src="https://github.com/user-attachments/assets/5d6caa07-f7c6-45fe-8f34-c5fb7079e03b" alt="Game Over"/> |
 
 ---
 
 ## 🎯 Features
 
-* **Interactive Counting System:** Learn fundamental game mechanics through counting-based gameplay.
-* **User Interface:** Clean and intuitive UI for player interaction.
-* **Game Logic:** Demonstrates core programming concepts in game development.
+* **Click to Shoot:** Just **left click** to shoot the basketball towards the hoop.
+* **Live Score & Timer:** Keep track of your goals and watch the countdown timer in real time.
+* **Clean UI:** Easily start the game from the main menu and restart when the game ends.
 
 ---
 
