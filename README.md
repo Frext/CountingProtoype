@@ -26,6 +26,8 @@ Want to skip the code and just play?
 
 ## 🎬 Gameplay Preview
 
+https://github.com/user-attachments/assets/0925e97f-5f64-4dc1-a08c-77bb10fbfa04
+
 ---
 
 ## 📸 Screenshots
