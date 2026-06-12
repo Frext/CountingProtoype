@@ -12,7 +12,7 @@ Want to skip the code and just play?
 
 2. Extract the ZIP file.
 
-3. Open the **`BuildWindows`** folder and run the game executable named **`SimpleBreakout.exe`**.
+3. Open the **`BuildWindows`** folder and run the game executable named **`CountingPrototype.exe`**.
 
 ---
 
